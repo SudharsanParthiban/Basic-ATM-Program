@@ -1,5 +1,3 @@
-package com.company;
-
 public class second {
     public void displayBalance(int balance){
         System.out.println("current Balance : "+balance);
